@@ -3,4 +3,4 @@
 Site estático em HTML puro (sem CSS, Bootstrap ou JavaScript) com cabeçalho, produtos de 3 categorias, serviços com tele-busca e rodapé.
 
 - Site publicado: https://mosermonza.github.io/petshop/index.html
-- Ajuda com as funcionalidades: `ajuda.html`
+- Repositório: https://github.com/MoserMonza/petshop
